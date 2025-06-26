@@ -1,11 +1,11 @@
 {
   "routes": [
     {
-      "route": "Wizard126/.circleci/",
+      "route": ".circleci/",
       "methods": [
         "get"
       ],
-      "redirect": "index.php",
+      "redirect": ".circleci/index.php",
       "statusCode": 200
     }
   ]
