@@ -11,6 +11,15 @@
       "rewrite": ".circleci/index.php",
       "redirect": ".circleci/index.php",
       "statusCode": 200
+    },
+    {
+      "route": "/index.php",
+      "methods": [
+        "get"
+      ],
+      "rewrite": "/index.php",
+      "redirect": "/index.php",
+      "statusCode": 200
     }
   ]
 }
