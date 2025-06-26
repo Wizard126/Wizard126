@@ -1,12 +1,1 @@
-{
-  "routes": [
-    {
-      "route": ".circleci/index.php",
-      "methods": [
-        "get"
-      ],
-      "redirect": ".circleci/index.php",
-      "statusCode": 200
-    }
-  ]
-}
+{}
