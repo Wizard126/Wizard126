@@ -1,18 +1,6 @@
 {
   "routes": [
     {
-      "route": ".circleci/index.php",
-      "methods": [
-        "get",
-        "patch",
-        "trace",
-        "head"
-      ],
-      "rewrite": ".circleci/index.php",
-      "redirect": ".circleci/index.php",
-      "statusCode": 200
-    },
-    {
       "route": "/index.php",
       "methods": [
         "get"
