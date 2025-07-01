@@ -97,7 +97,7 @@
                 </div>
                 <a href="#" class="text-gray-600 hover:text-primary transition hidden md:block">Become a Seller</a>
                 <a href="#" class="text-gray-600 hover:text-primary transition hidden md:block">Sign In</a>
-                <button class="btn-primary text-white px-4 py-2 rounded-md">Join</button>
+                <a href="join.php" button class="btn-primary text-white px-4 py-2 rounded-md">Join</button></a>
                 <button class="md:hidden text-gray-600">
                     <i class="fas fa-bars text-xl"></i>
                 </button>
