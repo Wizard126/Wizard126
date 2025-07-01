@@ -257,8 +257,8 @@
     <p class="mb-6" tabindex="0">Already have an account? <a href="#" tabindex="0">Sign in</a></p>
 
     <!-- Continue with Google -->
-     <script src="https://apis.google.com/js/platform.js" async defer></script>
      <meta name="google-signin-client_id" content="58143326442-va8lu0ajf9nsilk5f5efvbunselg0jo2.apps.googleusercontent.com"></div>
+     <script src="https://apis.google.com/js/platform.js" async defer></script>
     <div button class=" g-signin2 btn-primary btn-google w-full mb-4" aria-label="Continue with Google" data-onsuccess="onSignIn">
       <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 533.5 544.3" fill="none" >
         <path fill="#4285F4" d="M533.5 278.4c0-18.5-1.5-36.2-4.6-53.5H272.1v101.3h146.9c-6.4 34.3-26.3 63.3-56.4 82.9v68h91.5c53.5-49.2 83.4-121.9 83.4-198.7z"/>
